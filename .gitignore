@@ -1,1 +1,8 @@
+# Ignorar arquivos de ambiente com chaves de API
 .env
+
+# Ignorar a pasta de cache do Python
+__pycache__/
+
+# Ignorar os arquivos do VS Code
+.vscode/
